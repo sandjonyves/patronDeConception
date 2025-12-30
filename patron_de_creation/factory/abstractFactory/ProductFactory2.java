@@ -1,3 +1,4 @@
+package patron_de_creation.factory.abstractFactory;
 
 
 public class ProductFactory2 extends ProductFactory {

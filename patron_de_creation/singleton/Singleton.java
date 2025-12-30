@@ -1,3 +1,4 @@
+package patron_de_creation.singleton;
 public class Singleton{
 
     private static Singleton instance;

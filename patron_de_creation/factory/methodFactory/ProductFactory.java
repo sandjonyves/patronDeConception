@@ -1,3 +1,4 @@
+package patron_de_creation.factory.methodFactory;
 
 public class ProductFactory {
     public static final int PRODUCT_A_1 = 1;
