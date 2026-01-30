@@ -11,6 +11,6 @@ public class ImageStorage {
     public void store(String image) {
         compressor.compress(image);
         filter.apply(image);
-        System.out.println("Image sauvegardée avec succès : " + image);
+        System.out.println("Image sauvegardee avec succès : " + image);
     }
 }
